@@ -84,7 +84,7 @@
   },
   "peerDependencies": {
     "react": "^15.0.0 || >=16.0.0",
-    "echarts": "git+ssh://github.com/mianmalife/echarts.git"
+    "echarts": "https://github.com/mianmalife/echarts.git"
   },
   "jest": {
     "runner": "jest-electron/runner",
